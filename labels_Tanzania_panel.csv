@@ -1,0 +1,37 @@
+vname,vlabel
+HHID,Unique HH Identifier
+year,Year
+y3_panelweight,Panel weight
+psu,Primary Sampling Unit
+lat,GPS Latitude Offset at EA level
+lon,GPS Latitude Offset at EA level
+region,Region
+district,District
+ward,Ward
+ea,Enumeration Area
+urban,Urban dummy
+femhead,HH Head is female
+agehead,HH Head age
+hhszae,HH size in adult equivalent
+educave15_60,Average HH education of memebers in working age
+area_gps,Total land cultivated area (gps acres)
+distprschool,Distance from primary school
+credit,HH received credit
+TLU_cattle,Total number of cattle in TLU
+TLU_oxen,Total number of oxen in TLU
+TLU_pigs,Total number of pigs in TLU
+TLU_sheep,Total number of sheeps in TLU
+TLU_goats,Total number of goats in TLU
+TLU_chicken,Total number of chicken in TLU
+TLU_donkeyhorses,Total number of donkey/horses in TLU
+TLU_otheranim,Total number of other animals in TLU
+cellphone,HH own a cell phone
+safewater,HH access to safe water
+landown,Total land owned (acres) 
+swc_any,HH applies Soil and/or Water Conservation Structure
+fert_org_use,HH applies organic fertilizer
+tot_exp,"Real annual total expenditure, US$ 2010"
+food_exp,"Real annual food expenditure, US$ 2010"
+mean_rain_lt,Long Term Mean of Total Seasonal Precipitation
+sd_rain_lt,Long Term Standard Deviation of total seasonal precipitation
+
